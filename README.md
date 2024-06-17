@@ -1,4 +1,4 @@
 <!-- anhtuankckt -->
-## NextJS Tutorial
+## NextJS Basic
 
 1. App Router
